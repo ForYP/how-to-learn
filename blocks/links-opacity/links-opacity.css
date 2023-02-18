@@ -1,0 +1,5 @@
+.links-opacity:hover{
+    opacity: 0.5;
+    transition: 2s;
+    color: crimson;
+}

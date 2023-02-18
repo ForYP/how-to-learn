@@ -1,0 +1,9 @@
+.table{
+    width: 1100px;
+    margin: 0;
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0px;
+}
